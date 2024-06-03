@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @Rysasus
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Beginner Programmer
+# EagleCyberCrew DDoS Tool 
+This tool is using python3
+## Installation
 
-<!---
-Rysasus/Rysasus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+```bash
+git clone https://github.com/Skyzz2/ECC-DDoS
+cd ECC-DDoS
+```
+
+## Usage
+
+```
+python3 main.py (target)
+```
+![Example usage](https://i.imgur.com/lLdC5m6.png "Example usage")
